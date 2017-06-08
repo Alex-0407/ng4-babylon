@@ -22,7 +22,7 @@
         "styles.css"
       ],
       "scripts": [
-        "../node_modules/babylon/bin/babylon.js"
+        "../node_modules/babylonjs/babylon.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
